@@ -3,20 +3,20 @@
     <crop bottom="0" left="0" right="0" top="0"/>
     <rotation angle="0.0010587608537234413"/>
     <corners type="ROUND">
-        <corner position="BOTTOM_LEFT">
-            <point x="328.0" y="3099.0"/>
-        </corner>
         <corner position="TOP_RIGHT">
             <point x="2220.0" y="133.0"/>
-        </corner>
-        <corner position="TOP_LEFT">
-            <point x="331.0" y="135.0"/>
         </corner>
         <corner position="BOTTOM_RIGHT">
             <point x="2216.0" y="3101.0"/>
         </corner>
+        <corner position="TOP_LEFT">
+            <point x="331.0" y="135.0"/>
+        </corner>
+        <corner position="BOTTOM_LEFT">
+            <point x="328.0" y="3099.0"/>
+        </corner>
     </corners>
-    <fields groups="true" shape="CIRCLE" size="16">
+    <fields groups="true" shape="CIRCLE" size="20">
         <group name="NR1RTC">
             <question multiple="false" question="Question100" rejectMultiple="true" type="QUESTIONS_BY_ROWS">
                 <values>
