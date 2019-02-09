@@ -20,7 +20,7 @@
         <group name="NR1RTC">
             <question multiple="false" question="Question100" rejectMultiple="true" type="QUESTIONS_BY_ROWS">
                 <values>
-                    <value response="A">
+                    <value response="1">
                         <point x="1386.0" y="2481.0"/>
                     </value>
                 </values>
@@ -56,14 +56,14 @@
         <group name="NR1LTH">
             <question multiple="false" question="Question093" rejectMultiple="false" type="QUESTIONS_BY_ROWS">
                 <values>
-                    <value response="A">
+                    <value response="1">
                         <point x="839.0" y="2484.0"/>
                     </value>
                 </values>
             </question>
         </group>
         <group name="Attributes">
-            <question multiple="false" question="Question116" rejectMultiple="true" type="QUESTIONS_BY_ROWS">
+            <question multiple="false" question="Speed" rejectMultiple="true" type="QUESTIONS_BY_ROWS">
                 <values>
                     <value response="0">
                         <point x="1539.0" y="2839.0"/>
@@ -146,7 +146,7 @@
         <group name="played Defense">
             <question multiple="false" question="Question012" rejectMultiple="true" type="QUESTIONS_BY_ROWS">
                 <values>
-                    <value response="A">
+                    <value response="1">
                         <point x="1659.0" y="557.0"/>
                     </value>
                 </values>
@@ -155,7 +155,7 @@
         <group name="NR1RTH">
             <question multiple="false" question="Question098" rejectMultiple="true" type="QUESTIONS_BY_ROWS">
                 <values>
-                    <value response="A">
+                    <value response="1">
                         <point x="1306.0" y="2483.0"/>
                     </value>
                 </values>
@@ -167,7 +167,7 @@
                     <value response="1">
                         <point x="1153.0" y="435.0"/>
                     </value>
-                    <value response="B">
+                    <value response="0">
                         <point x="1192.0" y="435.0"/>
                     </value>
                 </values>
@@ -176,7 +176,7 @@
         <group name="FR3SRH">
             <question multiple="false" question="Question017" rejectMultiple="true" type="QUESTIONS_BY_ROWS">
                 <values>
-                    <value response="A">
+                    <value response="1">
                         <point x="1309.0" y="759.0"/>
                     </value>
                 </values>
@@ -212,7 +212,7 @@
         <group name="FC1SH">
             <question multiple="false" question="Question037" rejectMultiple="true" type="QUESTIONS_BY_ROWS">
                 <values>
-                    <value response="A">
+                    <value response="1">
                         <point x="957.0" y="1480.0"/>
                     </value>
                 </values>
@@ -221,13 +221,13 @@
         <group name="FC3SH">
             <question multiple="false" question="Question045" rejectMultiple="true" type="QUESTIONS_BY_ROWS">
                 <values>
-                    <value response="A">
+                    <value response="1">
                         <point x="1425.0" y="1321.0"/>
                     </value>
                 </values>
             </question>
         </group>
-        <group name="NC1ST">
+        <group name="NC1SC">
             <question multiple="false" question="Question054" rejectMultiple="false" type="QUESTIONS_BY_ROWS">
                 <values>
                     <value response="1">
@@ -239,7 +239,7 @@
         <group name="NC3SH">
             <question multiple="false" question="Question061" rejectMultiple="true" type="QUESTIONS_BY_ROWS">
                 <values>
-                    <value response="A">
+                    <value response="1">
                         <point x="1426.0" y="1843.0"/>
                     </value>
                 </values>
@@ -248,7 +248,7 @@
         <group name="NR1LTC">
             <question multiple="false" question="Question094" rejectMultiple="true" type="QUESTIONS_BY_ROWS">
                 <values>
-                    <value response="A">
+                    <value response="1">
                         <point x="917.0" y="2483.0"/>
                     </value>
                 </values>
@@ -266,7 +266,7 @@
         <group name="help climb l3">
             <question multiple="false" question="Question110" rejectMultiple="false" type="QUESTIONS_BY_ROWS">
                 <values>
-                    <value response="A">
+                    <value response="1">
                         <point x="801.0" y="2799.0"/>
                     </value>
                 </values>
@@ -284,7 +284,7 @@
         <group name="FC3SC">
             <question multiple="false" question="Question046" rejectMultiple="true" type="QUESTIONS_BY_ROWS">
                 <values>
-                    <value response="A">
+                    <value response="1">
                         <point x="1503.0" y="1321.0"/>
                     </value>
                 </values>
@@ -293,7 +293,7 @@
         <group name="NR1LSH">
             <question multiple="false" question="Question091" rejectMultiple="false" type="QUESTIONS_BY_ROWS">
                 <values>
-                    <value response="A">
+                    <value response="1">
                         <point x="838.0" y="2441.0"/>
                     </value>
                 </values>
@@ -311,7 +311,7 @@
         <group name="FR2TLH">
             <question multiple="false" question="Question023" rejectMultiple="true" type="QUESTIONS_BY_ROWS">
                 <values>
-                    <value response="A">
+                    <value response="1">
                         <point x="842.0" y="959.0"/>
                     </value>
                 </values>
@@ -329,7 +329,7 @@
         <group name="NC2TC">
             <question multiple="false" question="Question060" rejectMultiple="true" type="QUESTIONS_BY_ROWS">
                 <values>
-                    <value response="A">
+                    <value response="1">
                         <point x="1269.0" y="1881.0"/>
                     </value>
                 </values>
@@ -365,7 +365,7 @@
         <group name="FR2TLC">
             <question multiple="false" question="Question024" rejectMultiple="false" type="QUESTIONS_BY_ROWS">
                 <values>
-                    <value response="A">
+                    <value response="1">
                         <point x="920.0" y="957.0"/>
                     </value>
                 </values>
@@ -383,7 +383,7 @@
         <group name="NR2RTH">
             <question multiple="false" question="Question089" rejectMultiple="false" type="QUESTIONS_BY_ROWS">
                 <values>
-                    <value response="A">
+                    <value response="1">
                         <point x="1307.0" y="2324.0"/>
                     </value>
                 </values>
@@ -392,7 +392,7 @@
         <group name="NR1RSH">
             <question multiple="false" question="Question095" rejectMultiple="false" type="QUESTIONS_BY_ROWS">
                 <values>
-                    <value response="A">
+                    <value response="1">
                         <point x="1306.0" y="2445.0"/>
                     </value>
                 </values>
@@ -401,7 +401,7 @@
         <group name="FC2TH">
             <question multiple="false" question="Question043" rejectMultiple="true" type="QUESTIONS_BY_ROWS">
                 <values>
-                    <value response="A">
+                    <value response="1">
                         <point x="1190.0" y="1360.0"/>
                     </value>
                 </values>
@@ -410,7 +410,7 @@
         <group name="FR3TRC">
             <question multiple="false" question="Question020" rejectMultiple="true" type="QUESTIONS_BY_ROWS">
                 <values>
-                    <value response="A">
+                    <value response="1">
                         <point x="1386.0" y="798.0"/>
                     </value>
                 </values>
@@ -437,7 +437,7 @@
         <group name="NR2LTC">
             <question multiple="false" question="Question086" rejectMultiple="false" type="QUESTIONS_BY_ROWS">
                 <values>
-                    <value response="A">
+                    <value response="1">
                         <point x="916.0" y="2321.0"/>
                     </value>
                 </values>
@@ -446,7 +446,7 @@
         <group name="NC4TH">
             <question multiple="false" question="Question067" rejectMultiple="true" type="QUESTIONS_BY_ROWS">
                 <values>
-                    <value response="A">
+                    <value response="1">
                         <point x="1658.0" y="1881.0"/>
                     </value>
                 </values>
@@ -455,7 +455,7 @@
         <group name="NC2TH">
             <question multiple="false" question="Question059" rejectMultiple="false" type="QUESTIONS_BY_ROWS">
                 <values>
-                    <value response="A">
+                    <value response="1">
                         <point x="1189.0" y="1882.0"/>
                     </value>
                 </values>
@@ -464,7 +464,7 @@
         <group name="NR1LSC">
             <question multiple="false" question="Question092" rejectMultiple="false" type="QUESTIONS_BY_ROWS">
                 <values>
-                    <value response="A">
+                    <value response="1">
                         <point x="917.0" y="2444.0"/>
                     </value>
                 </values>
@@ -482,7 +482,7 @@
         <group name="FC4TC">
             <question multiple="false" question="Question052" rejectMultiple="false" type="QUESTIONS_BY_ROWS">
                 <values>
-                    <value response="A">
+                    <value response="1">
                         <point x="1737.0" y="1359.0"/>
                     </value>
                 </values>
@@ -500,7 +500,7 @@
         <group name="NR3RTH">
             <question multiple="false" question="Question079" rejectMultiple="false" type="QUESTIONS_BY_ROWS">
                 <values>
-                    <value response="A">
+                    <value response="1">
                         <point x="1308.0" y="2163.0"/>
                     </value>
                 </values>
@@ -518,11 +518,11 @@
                     <value response="B3">
                         <point x="1777.0" y="314.0"/>
                     </value>
-                    <value response="F">
+                    <value response="R3">
                         <point x="1777.0" y="433.0"/>
                     </value>
                     <value response="B1">
-                        <point x="1776.0" y="234.0"/>
+                        <point x="1777.0" y="234.0"/>
                     </value>
                     <value response="R1">
                         <point x="1777.0" y="354.0"/>
@@ -542,7 +542,7 @@
         <group name="NC4SC">
             <question multiple="false" question="Question066" rejectMultiple="true" type="QUESTIONS_BY_ROWS">
                 <values>
-                    <value response="A">
+                    <value response="1">
                         <point x="1734.0" y="1841.0"/>
                     </value>
                 </values>
@@ -551,7 +551,7 @@
         <group name="NR2LSH">
             <question multiple="false" question="Question083" rejectMultiple="false" type="QUESTIONS_BY_ROWS">
                 <values>
-                    <value response="A">
+                    <value response="1">
                         <point x="841.0" y="2283.0"/>
                     </value>
                 </values>
@@ -560,7 +560,7 @@
         <group name="FR3SLH">
             <question multiple="false" question="Question013" rejectMultiple="true" type="QUESTIONS_BY_ROWS">
                 <values>
-                    <value response="A">
+                    <value response="1">
                         <point x="841.0" y="758.0"/>
                     </value>
                 </values>
@@ -569,7 +569,7 @@
         <group name="NC2SC">
             <question multiple="false" question="Question058" rejectMultiple="true" type="QUESTIONS_BY_ROWS">
                 <values>
-                    <value response="A">
+                    <value response="1">
                         <point x="1268.0" y="1842.0"/>
                     </value>
                 </values>
@@ -578,7 +578,7 @@
         <group name="NR3RTC">
             <question multiple="false" question="Question102" rejectMultiple="false" type="QUESTIONS_BY_ROWS">
                 <values>
-                    <value response="A">
+                    <value response="1">
                         <point x="1385.0" y="2164.0"/>
                     </value>
                 </values>
@@ -605,7 +605,7 @@
         <group name="FR3SLC">
             <question multiple="false" question="Question014" rejectMultiple="true" type="QUESTIONS_BY_ROWS">
                 <values>
-                    <value response="A">
+                    <value response="1">
                         <point x="920.0" y="759.0"/>
                     </value>
                 </values>
@@ -623,7 +623,7 @@
         <group name="NR2RSH">
             <question multiple="false" question="Question087" rejectMultiple="false" type="QUESTIONS_BY_ROWS">
                 <values>
-                    <value response="A">
+                    <value response="1">
                         <point x="1308.0" y="2285.0"/>
                     </value>
                 </values>
@@ -632,7 +632,7 @@
         <group name="FR2TRC">
             <question multiple="false" question="Question028" rejectMultiple="true" type="QUESTIONS_BY_ROWS">
                 <values>
-                    <value response="A">
+                    <value response="1">
                         <point x="1385.0" y="959.0"/>
                     </value>
                 </values>
@@ -641,7 +641,7 @@
         <group name="NR3TH">
             <question multiple="false" question="Question071" rejectMultiple="false" type="QUESTIONS_BY_ROWS">
                 <values>
-                    <value response="A">
+                    <value response="1">
                         <point x="840.0" y="2162.0"/>
                     </value>
                 </values>
@@ -725,7 +725,7 @@
                     </value>
                 </values>
             </question>
-            <question multiple="false" question="Question007" rejectMultiple="true" type="QUESTIONS_BY_ROWS">
+            <question multiple="false" question="Team #1's" rejectMultiple="true" type="QUESTIONS_BY_ROWS">
                 <values>
                     <value response="0">
                         <point x="1270.0" y="355.0"/>
@@ -797,7 +797,7 @@
         <group name="FC4SH">
             <question multiple="false" question="Question049" rejectMultiple="false" type="QUESTIONS_BY_ROWS">
                 <values>
-                    <value response="A">
+                    <value response="1">
                         <point x="1659.0" y="1320.0"/>
                     </value>
                 </values>
@@ -842,7 +842,7 @@
                     <value response="8">
                         <point x="998.0" y="275.0"/>
                     </value>
-                    <value response="J">
+                    <value response="9">
                         <point x="1037.0" y="275.0"/>
                     </value>
                 </values>
@@ -876,7 +876,7 @@
                     <value response="8">
                         <point x="998.0" y="235.0"/>
                     </value>
-                    <value response="J">
+                    <value response="9">
                         <point x="1037.0" y="235.0"/>
                     </value>
                 </values>
@@ -910,7 +910,7 @@
                     <value response="8">
                         <point x="998.0" y="316.0"/>
                     </value>
-                    <value response="J">
+                    <value response="9">
                         <point x="1037.0" y="315.0"/>
                     </value>
                 </values>
@@ -928,7 +928,7 @@
         <group name="FC2SC">
             <question multiple="false" question="Question042" rejectMultiple="true" type="QUESTIONS_BY_ROWS">
                 <values>
-                    <value response="A">
+                    <value response="1">
                         <point x="1269.0" y="1322.0"/>
                     </value>
                 </values>
@@ -946,7 +946,7 @@
         <group name="NC4SH">
             <question multiple="false" question="Question065" rejectMultiple="false" type="QUESTIONS_BY_ROWS">
                 <values>
-                    <value response="A">
+                    <value response="1">
                         <point x="1658.0" y="1842.0"/>
                     </value>
                 </values>
@@ -961,7 +961,7 @@
                 </values>
             </question>
         </group>
-        <group name="NR3RSC">
+        <group name="NR2SLC">
             <question multiple="false" question="Question084" rejectMultiple="true" type="QUESTIONS_BY_ROWS">
                 <values>
                     <value response="1">
@@ -971,7 +971,7 @@
             </question>
             <question multiple="false" question="Question078" rejectMultiple="true" type="QUESTIONS_BY_ROWS">
                 <values>
-                    <value response="A">
+                    <value response="1">
                         <point x="1383.0" y="2125.0"/>
                     </value>
                 </values>
@@ -989,7 +989,7 @@
         <group name="NC3TC">
             <question multiple="false" question="Question064" rejectMultiple="true" type="QUESTIONS_BY_ROWS">
                 <values>
-                    <value response="A">
+                    <value response="1">
                         <point x="1502.0" y="1880.0"/>
                     </value>
                 </values>
@@ -1016,7 +1016,7 @@
         <group name="Help Climb to L2">
             <question multiple="false" question="Question109" rejectMultiple="true" type="QUESTIONS_BY_ROWS">
                 <values>
-                    <value response="A">
+                    <value response="1">
                         <point x="799.0" y="2762.0"/>
                     </value>
                 </values>
@@ -1037,7 +1037,7 @@
         <group name="NR3RSH">
             <question multiple="false" question="Question082" rejectMultiple="true" type="QUESTIONS_BY_ROWS">
                 <values>
-                    <value response="A">
+                    <value response="1">
                         <point x="1307.0" y="2122.0"/>
                     </value>
                 </values>
@@ -1064,7 +1064,7 @@
         <group name="FC3TH">
             <question multiple="false" question="Question047" rejectMultiple="true" type="QUESTIONS_BY_ROWS">
                 <values>
-                    <value response="A">
+                    <value response="1">
                         <point x="1425.0" y="1361.0"/>
                     </value>
                 </values>
@@ -1100,7 +1100,7 @@
         <group name="NC3TH">
             <question multiple="false" question="Question063" rejectMultiple="true" type="QUESTIONS_BY_ROWS">
                 <values>
-                    <value response="A">
+                    <value response="1">
                         <point x="1424.0" y="1882.0"/>
                     </value>
                 </values>
@@ -1109,7 +1109,7 @@
         <group name="FC1TC">
             <question multiple="false" question="Question040" rejectMultiple="true" type="QUESTIONS_BY_ROWS">
                 <values>
-                    <value response="A">
+                    <value response="1">
                         <point x="1036.0" y="1520.0"/>
                     </value>
                 </values>
